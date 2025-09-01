@@ -8,7 +8,7 @@ layoutClass: 'gap-3'
 We made two key backwards compatible changes, eventually removing the Jinja2 feature after a period of clear deprecation.
 
 ::left::
-### Dataset Factories
+### <mdi-factory/> Dataset Factories
 **Pattern matching approach** 
 
 - Addressed the key pain point of super-long YAML files
@@ -42,7 +42,7 @@ csv_planes:
 ::right::
 
 
-### `OmegaConf` Resolvers
+### <mdi-cog-outline/> `OmegaConf` Resolvers
 
 **Dynamic configuration** 
 

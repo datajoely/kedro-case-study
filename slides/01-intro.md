@@ -8,7 +8,7 @@
 
 <div>
 
-### Principles
+### <mdi-compass-outline/> Principles
 
 <ul class="list-none space-y-1">
 <li><mdi-layers/> Forces key separation of concerns</li>
@@ -21,7 +21,7 @@
 </div>
 <div>
 
-### Key Features
+### <mdi-star-four-points/> Key Features
 
 <ul class="list-none space-y-1">
 <li><mdi-workflow/> <strong>Pipeline-driven</strong> DAG workflows</li>

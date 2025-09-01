@@ -8,14 +8,14 @@
 
 <div>
 
-### The Context 2016-2022*ish*
+### <mdi-timeline-text/> The Context 2016-2022*ish*
 
 <ul class="list-none space-y-1">
 <li><mdi-chart-line/> <strong>QuantumBlack scaling rapidly</strong> as Fortune 500s lacked DS functions</li>
 <li><mdi-cloud/> <strong>Immature ML platforms</strong> Databricks, SageMaker, VertexAI</li>
 </ul>
 
-### The Internal Challenge
+### <mdi-target/> The Internal Challenge
 
 <ul class="list-none space-y-1">
 <li><mdi-account-group/> <strong>Users of diverse backgrounds</strong> academics to seasoned engineers</li>
@@ -23,7 +23,7 @@
 <li><mdi-lock/> <strong>Inability to move people between projects</strong> Life sentences for particular projects</li>
 </ul>
 
-### Scaling journey
+### <mdi-chart-line/> Scaling journey
 
 <ul class="list-none">
 <li><mdi-cog/> <strong>Encoded our ways of working</strong> with a lightweight Python framework</li>

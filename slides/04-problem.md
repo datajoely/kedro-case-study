@@ -3,13 +3,13 @@ layout: center
 class: text-center
 ---
 
-<div class="flex items-center justify-center">
-  <h1 class="flex items-center">The Key Problem (early 2021)</h1>
-</div> 
+
+# The problem
+
 
 <div class="grid gap-6 mt-8 text-lg max-w-4xl mx-auto">
 
-### In large projects, configuration overhead was getting out of hand
+### <mdi-alert-octagon/> In large projects, configuration overhead was getting out of hand
 
 <ul class="list-none space-y-3 text-left">
 <li><mdi-alert/> <strong>Power users were creating brittle solutions</strong> sophisticated workarounds emerging</li>

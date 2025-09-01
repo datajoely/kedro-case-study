@@ -5,7 +5,7 @@ Design and product-led research with comprehensive user validation ([#891](https
 <div class="grid grid-cols-2 gap-12 mt-8">
 <div class="space-y-8">
 
-### Research Methodology
+### <mdi-magnify/> Research Methodology
 
 <ul class="list-none space-y-1">
 <li><mdi-account-group/> <strong>19 one-hour user interviews</strong> DS, DE, MLE personas</li>
@@ -14,7 +14,7 @@ Design and product-led research with comprehensive user validation ([#891](https
 <li><mdi-pencil-ruler/> <strong><a href="https://hamzaoza.github.io/kedro-config-generator/" target="_blank">Low-fidelity prototypes</a></strong> Multiple solutions tested</li>
 </ul>
 
-### Prior Art & Context
+### <mdi-book-open-page-variant/> Prior Art & Context
 
 <ul class="list-none space-y-1">
 <li><mdi-google/> <strong><a href="https://sre.google/workbook/configuration-specifics/" target="_blank">Google SRE handbook</a></strong> Configuration patterns from K8s world</li>
@@ -26,7 +26,7 @@ Design and product-led research with comprehensive user validation ([#891](https
 </div>
 <div class="space-y-8">
 
-### Testing & Validation
+### <mdi-test-tube/> Testing & Validation
 
 <ul class="list-none space-y-1">
 <li><mdi-map-marker/> <strong>Pain point mapping</strong> Specific failure patterns identified</li>
@@ -35,7 +35,7 @@ Design and product-led research with comprehensive user validation ([#891](https
 <li><mdi-account-tie/> <strong>Steering committee recommendation</strong> Evidence-based proposal</li>
 </ul>
 
-### Alignment with [Kedro's principles](https://github.com/kedro-org/kedro/wiki/Kedro-Principles)
+### <mdi-scale-balance/> Alignment with [Kedro's principles](https://github.com/kedro-org/kedro/wiki/Kedro-Principles)
 
 <ul class="list-none space-y-1">
 <li><mdi-magic-staff/> <strong>A sprinkle of magic is better than a spoonful of it</strong></li>
