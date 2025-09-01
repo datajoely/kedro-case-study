@@ -1,8 +1,8 @@
 ---
 theme: seriph
-title: Kedro
+title: Kedro configuration
 info: |
-  ## Kedro
+  ## Kedro configuration system overhaul
 
   Case study in identifying the increased developer toil when working with the configuration system and the process for remedying that
 
