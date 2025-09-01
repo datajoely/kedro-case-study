@@ -13,6 +13,7 @@ drawings:
   persist: false
 transition: slide-left
 mdc: true
+routerMode: hash
 ---
 
 <div class="flex justify-center items-center mt-8 mb-8 space-x-8">

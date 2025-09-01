@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "slidev",
-    "build": "slidev build",
+    "build": "slidev build --base /kedro-case-study/",
     "export": "slidev export",
     "serve": "npm run build && npx serve dist"
   },
