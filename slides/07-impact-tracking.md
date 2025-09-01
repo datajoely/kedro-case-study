@@ -58,7 +58,7 @@ Reduced developer toil, faster onboarding, cleaner configurations
 <div class="bg-kedro-mint/10 border border-kedro-mint/50 p-3 rounded-lg mt-2 text-xs">
 <p class="font-semibold text-kedro-mint mb-2"><mdi-lightbulb-on class="mr-1"/> PRODUCT DISCIPLINE</p>
 <p class="text-gray-300 leading-relaxed"> It was crucial to resist the urge to give power users every feature they asked for.</p>
-<p class="text-gray-300 leading-relaxed mt-2">Learning to <strong>peel back the layers</strong> and truly understand the problem was critical to defining the precise interventions that reduced complexity while the right new functionality.</p>
+<p class="text-gray-300 leading-relaxed mt-2">Learning to <strong>peel back the layers</strong> and truly understand the problem was critical to defining the precise interventions that reduced complexity while adding the right new functionality.</p>
 
 </div>
 

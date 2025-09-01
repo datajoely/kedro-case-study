@@ -4,7 +4,7 @@ title: Kedro
 info: |
   ## Kedro
 
-  Case study in identifying the increased developer toil working with the configuration system and the process for remedying that
+  Case study in identifying the increased developer toil when working with the configuration system and the process for remedying that
 
 class: text-center
 highlighter: shiki

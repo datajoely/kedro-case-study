@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "slidev",
     "build": "slidev build",
-    "export": "slidev export"
+    "export": "slidev export",
+    "serve": "npm run build && npx serve dist"
   },
   "keywords": [],
   "author": "",

@@ -27,7 +27,7 @@
 
 <ul class="list-none">
 <li><mdi-cog/> <strong>Encoded our ways of working</strong> with a lightweight Python framework</li>
-<li><mdi-school/> <strong>Established credebility as a tech company</strong> thought leadership, recruitment </li>
+<li><mdi-school/> <strong>Established credibility as a tech company</strong> thought leadership, recruitment </li>
 <li><mdi-lock-open/> <strong>Customers resisted closed-source version</strong> vendor neutrality key</li>
 <li><mdi-puzzle/> <strong>Found external PMF</strong> as a tool to drive consistent practices across teams</li>
 </ul>

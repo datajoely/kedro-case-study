@@ -12,7 +12,7 @@ class: text-center
 ### In large projects, configuration overhead was getting out of hand
 
 <ul class="list-none space-y-3 text-left">
-<li><mdi-alert/> <strong>Power were users creating brittle solutions</strong> sophisticated workarounds emerging</li>
+<li><mdi-alert/> <strong>Power users were creating brittle solutions</strong> sophisticated workarounds emerging</li>
 <li><mdi-puzzle-outline/> <strong>Jinja2 templating</strong> contribution accepted without considering full implications</li>
 <li><mdi-file-code-outline/> <strong>YAML engineering is not fun</strong> especially when inheriting codebases</li>
 <li><mdi-chart-line/> <strong>Community divergence</strong> different approaches signaling need for solution</li>

@@ -244,6 +244,14 @@ button:hover {
   color: var(--kedro-mint) !important;
 }
 
+.bg-kedro-mint\/10 {
+  background-color: rgba(0, 212, 170, 0.1) !important;
+}
+
+.border-kedro-mint\/50 {
+  border-color: rgba(0, 212, 170, 0.5) !important;
+}
+
 .text-kedro-orange {
   color: var(--kedro-orange) !important;
 }

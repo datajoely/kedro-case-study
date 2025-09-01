@@ -35,7 +35,7 @@ Design and product-led research with comprehensive user validation ([#891](https
 <li><mdi-account-tie/> <strong>Steering committee recommendation</strong> Evidence-based proposal</li>
 </ul>
 
-### Alignment with [Kedro's principles](https://github.com/kedro-org/kedro/wiki/Kedro-Principles)?
+### Alignment with [Kedro's principles](https://github.com/kedro-org/kedro/wiki/Kedro-Principles)
 
 <ul class="list-none space-y-1">
 <li><mdi-magic-staff/> <strong>A sprinkle of magic is better than a spoonful of it</strong></li>

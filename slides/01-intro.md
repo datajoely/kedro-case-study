@@ -1,5 +1,5 @@
 <div class="flex items-center justify-between">
-  <h1 class="flex items-center">What is Kedro</h1>
+  <h1 class="flex items-center">What is Kedro?</h1>
 </div> 
 
 <p class="text-sm">An open-source Linux Foundation Python framework for creating reproducible, maintainable, and modular data science code</p>
