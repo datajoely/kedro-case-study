@@ -3,13 +3,14 @@ layout: center
 class: text-center
 ---
 
+<div class="absolute top-4 right-4 text-gray-500">~2021</div>
 
 # The problem
 
 
 <div class="grid gap-6 mt-8 text-lg max-w-4xl mx-auto">
 
-### <mdi-alert-octagon/> In large projects, configuration overhead was getting out of hand
+### <mdi-alert-octagon/>In large projects, configuration overhead was getting out of hand
 
 <ul class="list-none space-y-3 text-left">
 <li><mdi-alert/> <strong>Power users were creating brittle solutions</strong> sophisticated workarounds emerging</li>
