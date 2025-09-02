@@ -11,11 +11,11 @@
 ### <mdi-compass-outline/> Principles
 
 <ul class="list-none space-y-1">
-<li><mdi-layers/> Forces key separation of concerns</li>
+<li><mdi-layers/> Forces key separation of concerns, pure functions</li>
 <li><mdi-account-group/> Drives consistency within and across teams</li>
 <li><mdi-code-tags/> Pushes people out of notebooks</li>
-<li><mdi-cube-outline/> Inspired by the 12-factor app</li>
-<li><mdi-school/> Nudges SWE best practices into DS workflows</li>
+<li><mdi-cube-outline/> Inspired by Heroku's <a src="https://12factor.net">12-factor app</a></li>
+<li><mdi-school/> Nudges SWE best practices for a DS/DE/MLE personas </li>
 </ul>
 
 </div>

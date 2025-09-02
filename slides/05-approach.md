@@ -5,6 +5,8 @@ Design and product-led research with comprehensive user validation ([#891](https
 <div class="grid grid-cols-2 gap-12 mt-8">
 <div class="space-y-8">
 
+<div v-click="1">
+
 ### <mdi-magnify/> Research Methodology
 
 <ul class="list-none space-y-1">
@@ -13,6 +15,10 @@ Design and product-led research with comprehensive user validation ([#891](https
 <li><mdi-github/> <strong>138 real projects analysed</strong> GitHub queries for quantitative data</li>
 <li><mdi-pencil-ruler/> <strong><a href="https://hamzaoza.github.io/kedro-config-generator/" target="_blank">Low-fidelity prototypes</a></strong> Multiple solutions tested</li>
 </ul>
+
+</div>
+
+<div v-click="3">
 
 ### <mdi-book-open-page-variant/> Prior Art & Context
 
@@ -24,7 +30,11 @@ Design and product-led research with comprehensive user validation ([#891](https
 </ul>
 
 </div>
+
+</div>
 <div class="space-y-8">
+
+<div v-click="2">
 
 ### <mdi-test-tube/> Testing & Validation
 
@@ -35,6 +45,10 @@ Design and product-led research with comprehensive user validation ([#891](https
 <li><mdi-account-tie/> <strong>Steering committee recommendation</strong> Evidence-based proposal</li>
 </ul>
 
+</div>
+
+<div v-click="4">
+
 ### <mdi-scale-balance/> Alignment with [Kedro's principles](https://github.com/kedro-org/kedro/wiki/Kedro-Principles)
 
 <ul class="list-none space-y-1">
@@ -43,6 +57,8 @@ Design and product-led research with comprehensive user validation ([#891](https
 <li><mdi-school/> <strong>Breaking changes</strong> are expensive (for many reasons)</li>
 <li><mdi-scale-balance/> <strong><u>Where should the line between imperative and declarative be?</u></strong></li>
 </ul>
+
+</div>
 
 </div>
 </div>

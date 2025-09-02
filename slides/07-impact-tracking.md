@@ -1,12 +1,12 @@
 # Impact Tracking
 
-Reduced developer toil, faster onboarding, cleaner configurations
+Reduced developer toil, faster onboarding, cleaner configurations, custom extensions no longer needed
 
 <div class="grid grid-cols-3 gap-4 mt-3 text-sm">
 
 <div>
 
-
+<div v-click="1">
 <div class="bg-gray-800/10 p-3 rounded-lg mt-2">
 <div class="flex items-center justify-between mb-2">
 <p class="font-semibold text-xs">USER INTERVIEWS</p>
@@ -20,13 +20,13 @@ Reduced developer toil, faster onboarding, cleaner configurations
 
 
 </div>
-
+</div>
 
 </div>
 
 <div>
 
-
+<div v-click="2">
 <div class="bg-gray-800/10 p-3 rounded-lg mt-2">
 <div class="flex items-center justify-between mb-2">
 <p class="font-semibold text-xs text-gray-400">TELEMETRY DATA</p>
@@ -37,7 +37,9 @@ Reduced developer toil, faster onboarding, cleaner configurations
 <li><mdi-trending-up class="text-green-400"/> Custom resolver usage tracked</li>
 </ul>
 </div>
+</div>
 
+<div v-click="3">
 <div class="bg-gray-800/10 p-3 rounded-lg mt-3">
 <div class="flex items-center justify-between mb-2">
 <p class="font-semibold text-xs text-gray-400">SUPPORT METRICS</p>
@@ -49,17 +51,20 @@ Reduced developer toil, faster onboarding, cleaner configurations
 <li><mdi-trending-up class="text-green-400"/> New Config docs traffic</li>
 </ul>
 </div>
+</div>
 
 </div>
 
 <div>
 
-
+<div v-click="4">
 <div class="bg-kedro-mint/10 border border-kedro-mint/50 p-3 rounded-lg mt-2 text-xs">
 <p class="font-semibold text-kedro-mint mb-2"><mdi-lightbulb-on class="mr-1"/> PRODUCT DISCIPLINE</p>
 <p class="text-gray-300 leading-relaxed"> It was crucial to resist the urge to give power users every feature they asked for.</p>
-<p class="text-gray-300 leading-relaxed mt-2">Learning to <strong>peel back the layers</strong> and truly understand the problem was critical to defining the precise interventions that reduced complexity while the right new functionality.</p>
+<p class="text-gray-300 leading-relaxed mt-2">Learning to <strong>peel back the layers</strong> and truly understand the problem was critical to defining the precise interventions that reduced complexity while adding the right new functionality.</p>
 
+
+</div>
 </div>
 
 </div>
